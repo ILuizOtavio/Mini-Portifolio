@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+.sub-titulo{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.descricao{
+    color: white;
+}
+
+.nome{
+    color:white
+}
+
+.cargo{
+    color:white
+}
+
